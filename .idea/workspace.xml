@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="701cca80-f111-4d7e-ae08-52285bc69d97" name="Default Changelist" comment="" />
+    <list default="true" id="701cca80-f111-4d7e-ae08-52285bc69d97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/config/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/productController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/productModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/productRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/config.env" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config/config.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +44,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2Li8owdcVcO5FbB4RydSUlpZmSi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +55,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript&#10;GitIgnore" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -51,11 +84,28 @@
       <workItem from="1676371337591" duration="602000" />
       <workItem from="1676371973615" duration="613000" />
       <workItem from="1676372623812" duration="6365000" />
+      <workItem from="1676476369342" duration="226000" />
+      <workItem from="1676505912979" duration="8000" />
+      <workItem from="1676538717280" duration="11900000" />
+      <workItem from="1676550923922" duration="1483000" />
+      <workItem from="1676560972263" duration="284000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="722" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676377839722">
@@ -66,9 +116,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1676371465114" />
-    <state x="667" y="229" width="585" height="582" key="find.popup" timestamp="1676377346629">
+    <state x="667" y="229" width="585" height="582" key="find.popup" timestamp="1676561147542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="229" width="585" height="582" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1676377346629" />
+    <state x="667" y="229" width="585" height="582" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1676561147542" />
   </component>
 </project>
