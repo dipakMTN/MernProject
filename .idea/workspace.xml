@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="701cca80-f111-4d7e-ae08-52285bc69d97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/middleware/catchAsyncErrors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/middleware/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/utils/apifeatures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/utils/errorhander.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config/database.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/controllers/productController.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/productController.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/routes/productRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/productRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +93,8 @@
       <workItem from="1676614926938" duration="8503000" />
       <workItem from="1676648765797" duration="382000" />
       <workItem from="1676695891049" duration="5000" />
+      <workItem from="1676888059517" duration="10343000" />
+      <workItem from="1677228668942" duration="8373000" />
     </task>
     <task id="LOCAL-00001" summary="api set up">
       <created>1676562708190</created>
@@ -94,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676562708190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20/2/23">
+      <created>1676888479430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676888479431</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="api set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="api set up" />
+    <MESSAGE value="20/2/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/2/23" />
   </component>
   <component name="WindowStateProjectService">
     <state x="722" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676377839722">
@@ -125,10 +142,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1676371465114" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1676562955931">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1676888991938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1676562955931" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1676888991938" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1676623193695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
